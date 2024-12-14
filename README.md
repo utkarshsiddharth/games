@@ -1,3 +1,4 @@
+Amazing Games you guys make 
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
@@ -463,7 +464,6 @@ A selection of major game studios, publishers, etc. using GitHub:
 -------
 
 # Just The Source
-
 * [Aquaria](https://github.com/AquariaOSE/Aquaria) - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
 * [Doom 3](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source code release.
 * [ID Software](https://github.com/id-Software) - Includes Doom, Quake, Wolfenstein and more.
